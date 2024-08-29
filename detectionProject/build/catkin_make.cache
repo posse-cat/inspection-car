@@ -1,0 +1,2 @@
+camera_control_msgs:pylon_camera:ros_launch:ros_qt_master:serial_pkg:testboy:video_transportation
+-DCATKIN_DEVEL_PREFIX=/home/pp/detectionProject/devel -DCMAKE_INSTALL_PREFIX=/home/pp/detectionProject/install -G Unix Makefiles

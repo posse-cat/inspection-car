@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/pp/detectionProject/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/pp/detectionProject/src/ros_qt_master/include/**",
+        "/home/pp/testRos2/src/serialPkg/include/**",
+        "/home/pp/detectionProject/src/testboy/include/**",
+        "/usr/include/**",
+        "/home/pp/Qt5.12.1/5.12.1/gcc_64/include",
+        "/home/pp/detectionProject/build/ros_qt_master"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

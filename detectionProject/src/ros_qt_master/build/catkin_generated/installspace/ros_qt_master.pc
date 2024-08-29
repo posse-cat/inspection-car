@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: ros_qt_master
+Description: Description of ros_qt_master
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

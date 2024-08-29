@@ -1,0 +1,16 @@
+-I/usr/include/eigen3
+-I/home/pp/detectionProject/src/ros_qt_master/include
+-I/opt/ros/noetic/include
+-I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp
+-I/usr/include
+-I/usr/include/opencv4
+-I/home/pp/detectionProject/devel/include
+-I/home/pp/detectionProject/src/ros_qt_master/include/ros_qt_master
+-I/home/pp/detectionProject/src/ros_qt_master
+-I/home/pp/detectionProject/src/ros_qt_master/build
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="ros_qt_master"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/pp/detectionProject/src/ros_qt_master/build/include/ros_qt_master/moc_main_window.cpp
+/home/pp/detectionProject/src/ros_qt_master/include/ros_qt_master/main_window.hpp

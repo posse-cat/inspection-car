@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/pp/detectionProject/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/pp/detectionProject/src/pylon_camera/include/**",
+        "/home/pp/detectionProject/src/ros_qt_master/include/**",
+        "/home/pp/detectionProject/src/serial_pkg/include/**",
+        "/home/pp/detectionProject/src/testboy/include/**",
+        "/home/pp/testRos2/src/usb_cam-develop/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

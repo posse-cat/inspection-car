@@ -1,0 +1,8 @@
+prefix=/home/pp/detectionProject/devel
+
+Name: serial_pkg
+Description: Description of serial_pkg
+Version: 0.0.0
+Cflags: -I/home/pp/detectionProject/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy serial std_msgs message_runtime

@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "/home/pp/detectionProject/devel/lib/ros_qt_master/ros_qt_master"
+  "/home/pp/detectionProject/devel/lib/ros_qt_master/ros_qt_master.pdb"
+  "CMakeFiles/ros_qt_master.dir/build/moc_ui_main_window.cpp.o"
+  "CMakeFiles/ros_qt_master.dir/build/moc_ui_main_window_new.cpp.o"
+  "CMakeFiles/ros_qt_master.dir/include/ros_qt_master/moc_camera_configure_window.cpp.o"
+  "CMakeFiles/ros_qt_master.dir/include/ros_qt_master/moc_car_tracking.cpp.o"
+  "CMakeFiles/ros_qt_master.dir/include/ros_qt_master/moc_image_widget.cpp.o"
+  "CMakeFiles/ros_qt_master.dir/include/ros_qt_master/moc_main_window.cpp.o"
+  "CMakeFiles/ros_qt_master.dir/include/ros_qt_master/moc_node_cam_control.cpp.o"
+  "CMakeFiles/ros_qt_master.dir/include/ros_qt_master/moc_node_img_receive.cpp.o"
+  "CMakeFiles/ros_qt_master.dir/include/ros_qt_master/moc_node_msg_receive.cpp.o"
+  "CMakeFiles/ros_qt_master.dir/qrc_images.cpp.o"
+  "CMakeFiles/ros_qt_master.dir/src/camera_configure_window.cpp.o"
+  "CMakeFiles/ros_qt_master.dir/src/car_tracking.cpp.o"
+  "CMakeFiles/ros_qt_master.dir/src/image_widget.cpp.o"
+  "CMakeFiles/ros_qt_master.dir/src/main.cpp.o"
+  "CMakeFiles/ros_qt_master.dir/src/main_window.cpp.o"
+  "CMakeFiles/ros_qt_master.dir/src/node_cam_control.cpp.o"
+  "CMakeFiles/ros_qt_master.dir/src/node_img_receive.cpp.o"
+  "CMakeFiles/ros_qt_master.dir/src/node_msg_receive.cpp.o"
+  "build/moc_ui_main_window.cpp"
+  "build/moc_ui_main_window_new.cpp"
+  "include/ros_qt_master/moc_camera_configure_window.cpp"
+  "include/ros_qt_master/moc_car_tracking.cpp"
+  "include/ros_qt_master/moc_image_widget.cpp"
+  "include/ros_qt_master/moc_main_window.cpp"
+  "include/ros_qt_master/moc_node_cam_control.cpp"
+  "include/ros_qt_master/moc_node_img_receive.cpp"
+  "include/ros_qt_master/moc_node_msg_receive.cpp"
+  "qrc_images.cpp"
+  "ui_camera_configure_window.h"
+  "ui_main_window_new.h"
+  "ui_main_window_v1.h"
+  "ui_main_window_v2.h"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/ros_qt_master.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

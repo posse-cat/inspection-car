@@ -1,0 +1,8 @@
+prefix=/home/pp/detectionProject/devel
+
+Name: video_transportation
+Description: Description of video_transportation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

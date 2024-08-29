@@ -1,0 +1,3 @@
+<launch>
+   <node pkg="video_transportation" type="myreceiver" name="myreceiver" />
+</launch>

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pp/detectionProject/src/ros_qt_master/build/devel/setup.sh

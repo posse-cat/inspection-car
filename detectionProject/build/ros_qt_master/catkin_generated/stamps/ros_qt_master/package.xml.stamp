@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<package>
+  <name>ros_qt_master</name>
+  <version>0.1.0</version>
+  <description>
+
+     ros_qt_master
+
+  </description>
+  <maintainer email="chengyangkj@qq.com">chengyangkj</maintainer>
+  <author>chengyangkj</author>
+  <license>BSD</license>
+  <!-- <url type="bugtracker">https://github.com/chengyangkj/ros_qt_master/issues</url> -->
+  <!-- <url type="repository">https://github.com/chengyangkj/ros_qt_master</url> -->
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>qt_build</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>libqt5-dev</build_depend>
+
+  <run_depend>qt_build</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>libqt5-dev</run_depend>
+
+  
+  <build_depend>serial</build_depend>
+  <run_depend>serial</run_depend>
+  <build_depend>rviz</build_depend>
+  <run_depend>rviz</run_depend>
+
+  <build_depend>serial_pkg</build_depend>
+  <run_depend>serial_pkg</run_depend>
+
+  <build_depend>actionlib_msgs</build_depend>
+  <run_depend>actionlib_msgs</run_depend>
+
+  <build_depend>std_msgs</build_depend>
+  <build_depend>message_runtime</build_depend>
+  <build_depend>camera_control_msgs</build_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>message_runtime</run_depend>
+  <run_depend>camera_control_msgs</run_depend>
+
+
+ 
+</package>
